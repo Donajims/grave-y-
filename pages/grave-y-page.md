@@ -1,7 +1,7 @@
 ---
 title:
 layout: page
-permanlink: /mendietasilva.html
+permalink: /mendietasilva.html
 ---
 
 
